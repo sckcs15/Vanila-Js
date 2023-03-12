@@ -1,4 +1,4 @@
-- vanila js
+# Vanila Js
 
 1. math, date
 
@@ -12,4 +12,4 @@
 
 6. array, Object
 
-7. arrow function
+7. arrow functionO
